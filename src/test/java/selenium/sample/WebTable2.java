@@ -70,7 +70,7 @@ public void Verify_Group_based_display_of_companies() {
 				System.out.println("Group A elements");
 			}
 			else
-				System.out.println("Others too displayed");
+				System.out.println("Others group elements are also displayed");
 	}
 	catch(Exception e) {
 		e.printStackTrace();
